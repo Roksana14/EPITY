@@ -1,0 +1,12 @@
+c:\users\roksana\source\repos\EPITY\EPITY\bin\Debug\EPITY.exe.config
+c:\users\roksana\source\repos\EPITY\EPITY\bin\Debug\EPITY.exe
+c:\users\roksana\source\repos\EPITY\EPITY\bin\Debug\EPITY.pdb
+c:\users\roksana\source\repos\EPITY\EPITY\bin\Debug\WebDriver.dll
+c:\users\roksana\source\repos\EPITY\EPITY\bin\Debug\WebDriver.Support.dll
+c:\users\roksana\source\repos\EPITY\EPITY\bin\Debug\WebDriver.xml
+c:\users\roksana\source\repos\EPITY\EPITY\bin\Debug\WebDriver.Support.xml
+c:\users\roksana\source\repos\EPITY\EPITY\obj\Debug\EPITY.csprojResolveAssemblyReference.cache
+c:\users\roksana\source\repos\EPITY\EPITY\obj\Debug\EPITY.csproj.CoreCompileInputs.cache
+c:\users\roksana\source\repos\EPITY\EPITY\obj\Debug\EPITY.csproj.CopyComplete
+c:\users\roksana\source\repos\EPITY\EPITY\obj\Debug\EPITY.exe
+c:\users\roksana\source\repos\EPITY\EPITY\obj\Debug\EPITY.pdb
